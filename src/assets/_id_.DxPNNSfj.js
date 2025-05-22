@@ -1,0 +1,1 @@
+import{D as t,v as r,x as o,y as c,z as e,E as s}from"./entry.B79t8160.js";const n={class:"m-10"},l={__name:"[id]",setup(u){const a=t();return(p,_)=>(r(),o("div",n,[c("h1",null,"auth-"+e(s(a).params.group)+"-"+e(s(a).params.id),1)]))}};export{l as default};
