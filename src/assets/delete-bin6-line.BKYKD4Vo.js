@@ -1,0 +1,1 @@
+import{v as n,x as t,y as o}from"./entry.B79t8160.js";const r={viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"};function h(i,e){return n(),t("svg",r,e[0]||(e[0]=[o("path",{fill:"currentColor",d:"M7 4V2h10v2h5v2h-2v15a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6H2V4zM6 6v14h12V6zm3 3h2v8H9zm4 0h2v8h-2z"},null,-1)]))}const a={name:"ri-delete-bin6-line",render:h};export{a as _};
